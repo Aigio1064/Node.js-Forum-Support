@@ -1,0 +1,46 @@
+{
+    "essential": {
+        "setting_refresh": 600000,
+        "address": "0.0.0.0",
+        "port": 37015,
+        "cors": "*",
+        "i18n_translation": "default"
+    },
+    "jwt": {
+        "enable": false,
+        "secret": ""
+    },
+    "certificate": {
+        "enable": false,
+        "cert_file": "",
+        "key_file": ""
+    },
+    "database": {
+        "type": "webdav",
+        "webdav": {
+            "url": "",
+            "user": "",
+            "password": "",
+            "root": "/"
+        },
+        "sql": {
+            "mode": "mysql",
+            "table_prefix": "NJFS_",
+            "mysql": {
+                "host": "localhost",
+                "port": 3306,
+                "user": "",
+                "password": "",
+                "database": "",
+                "ssl_mode": ""
+            },
+            "sqlite": {
+                "db_file": "data/data.db"
+            }
+        }
+    },
+    "plugin": {
+        "enable": false,
+        "data_path": "plugin/data/"
+    }
+}

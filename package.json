@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_forum_support",
+  "version": "1.0.0",
+  "description": "nodejs论坛支持",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "forum",
+    "support"
+  ],
+  "author": "Aigio1064",
+  "license": "GPL-3.0"
+}
