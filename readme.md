@@ -9,7 +9,9 @@
     - [ ] API
     - [ ] database
         - [ ] WebDAV
-    - [ ] plugin
+        - [ ] MySQL
+        - [ ] SQLite
+- [ ] plugin
 - [ ] i18n
     - [ ] zh_cn
 - [ ] plugin
