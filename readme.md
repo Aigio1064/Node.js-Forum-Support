@@ -5,10 +5,10 @@
 
 ## 进度
 
-- [-] main
+- [ ] main
     - [ ] API
     - [ ] database
-        - [-] WebDAV
+        - [ ] WebDAV
     - [ ] plugin
 - [ ] i18n
     - [ ] zh_cn
