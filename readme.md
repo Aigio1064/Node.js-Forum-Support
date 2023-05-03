@@ -23,6 +23,7 @@
 
 ### 附加
 当你创建并修改一个新的分支时，应当使用一个新的、具有明显区别的名称。  
-除非你不打算修改任何文件，仅将其作为一个备份。
+例如：XXX-Node.js-Forum-Support 或者一个新的名字。  
+除非你不打算修改除了config.json、plugin以外的任何文件，仅将其作为一个备份或者运行中的后端。
 
 贡献者以 Github Contributors 为准，捐助者以 [donors.md](./donors.md) 为准。  
