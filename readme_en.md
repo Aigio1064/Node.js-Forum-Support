@@ -26,8 +26,8 @@ All lib files could be a new project, but at the moment I don't have that idea.
 - WebDAV.js - Basic support for WebDAV {Aigio1064}
 
 ## License
-Regular users are licensed under ['GNU General Public License v3.0'] (./LICENSE).  
-Donors and contributors are licensed under ['Apache License 2.0'] (./LICENSE.txt).  
+Regular users are licensed under [`GNU General Public License v3.0`](./LICENSE).  
+Donors and contributors are licensed under [`Apache License 2.0`](./LICENSE.txt).  
 Special circumstances will be explained separately.
 
 ### Attach
