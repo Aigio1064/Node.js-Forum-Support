@@ -19,7 +19,7 @@
     "database": {
         "type": "webdav",
         "local":{
-            
+            "location":"/www/wwwroot/NJFS"
         },
         "webdav": {
             "url": "",
@@ -62,6 +62,7 @@
     },
     "plugin": {
         "enable": false,
-        "data_path": "plugin/data/"
+        "data_path": "plugin/data/",
+        "import":[]
     }
 }
