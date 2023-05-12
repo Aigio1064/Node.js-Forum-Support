@@ -1,5 +1,5 @@
 # Node.js 论坛支持 [N.J.F.S]
-
+[简体中文|[English](./readme_en.md)]
 ## 介绍
 这是以API为主的项目，使用`json`作为`i18n`翻译文件，使用`jwt`进行认证与加密，使用`plugin`添加更多强大功能。
 
@@ -21,8 +21,9 @@
 - [ ] plugin
 
 ## Lib说明
-- spoon.js 用于辅助用户验证的JWT模式 {Aigio1064}
-- WebDAV.js WebDAV的基础支持 {Aigio1064}
+所有的lib文件都可以成为一个新的项目，但目前我并没有这个想法。
+- spoon.js - 用于辅助用户验证的JWT模式 {Aigio1064}
+- WebDAV.js - WebDAV的基础支持 {Aigio1064}
 
 ## 许可证
 普通用户均按照 [`GNU General Public License v3.0`](./LICENSE) 进行授权。  
