@@ -1,4 +1,5 @@
 {
+    "config_version":"Beta-1.0.0",
     "essential": {
         "setting_refresh": 600000,
         "address": "0.0.0.0",
@@ -17,6 +18,9 @@
     },
     "database": {
         "type": "webdav",
+        "local":{
+            
+        },
         "webdav": {
             "url": "",
             "user": "",
@@ -26,6 +30,23 @@
         "sql": {
             "mode": "mysql",
             "table_prefix": "NJFS_",
+            "uploaded":{
+                "type":false,
+                "filter":".(jsp|php|asp|aspx)$",
+                "options":"i",
+                "whitelist":false,
+                "maxsize":52428800,
+                "returneddir":"filesystem",
+                "loacl":{
+                    "root":"files/"
+                },
+                "webdav":{
+                    "url":"",
+                    "user":"",
+                    "password":"",
+                    "root":"/"
+                }
+            },
             "mysql": {
                 "host": "localhost",
                 "port": 3306,
