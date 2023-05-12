@@ -6,3 +6,9 @@
 位置按先后顺序排列，不带有任何含义。  
 此文件禁止修改。以 `Aigio1064/Nodejs_Forum_Support` 为准。  
 分支无权决定文件内容，可以不更新此文件。  
+<style>
+    .markdown-body li {
+        display:"flxe";
+        align-content: center;
+    }
+</style>
