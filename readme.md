@@ -1,4 +1,4 @@
-# Node.js 论坛支持
+# Node.js 论坛支持 [N.J.F.S]
 
 ## 介绍
 这是以API为主的项目，使用`json`作为`i18n`翻译文件，使用`jwt`进行认证与加密，使用`plugin`添加更多强大功能。
@@ -7,14 +7,22 @@
 
 - [ ] main
     - [ ] API
+    - [ ] JWT
+        - [x] 可用性
+        - [ ] 实装
     - [ ] database
         - [ ] WebDAV
+            - [x] 可用性
+            - [ ] 实装
         - [ ] MySQL
         - [ ] SQLite
-- [ ] plugin
 - [ ] i18n
     - [ ] zh_cn
 - [ ] plugin
+
+## Lib说明
+- spoon.js 用于辅助用户验证的JWT模式 {Aigio1064}
+- WebDAV.js WebDAV的基础支持 {Aigio1064}
 
 ## 许可证
 普通用户均按照 [`GNU General Public License v3.0`](./LICENSE) 进行授权。  
