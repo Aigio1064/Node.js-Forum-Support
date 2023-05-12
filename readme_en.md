@@ -35,4 +35,4 @@ When you create and modify a new branch, you should use a new, distinct name.
 For example: XXX-Node.js-Forum-Support or a new name.  
 Unless you don't plan to modify any files other than config.json or plugins, just use it as a backup or running backend.
 
-Contributors are Github Contributors and donors are [donors.md] (./donors.md).  
+Contributors are Github Contributors and donors are [donors.md](./donors.md).  
